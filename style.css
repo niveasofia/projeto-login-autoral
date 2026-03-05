@@ -8,6 +8,11 @@ body{
 .form{
     padding: 50px;
     width: 250px;
+    border: 6px;
+    border-style: outset;
+    border-color: rgb(66, 6, 126);
+    background-image: linear-gradient(to top right, rgba(209, 90, 249, 0.63), 
+                                       rgb(61, 0, 147), rgb(38, 211, 254));
 }
 
 .form h1{
